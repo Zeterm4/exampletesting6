@@ -1,0 +1,2 @@
+# exampletesting6
+Gcompany
